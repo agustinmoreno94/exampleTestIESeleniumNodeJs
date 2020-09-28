@@ -1,0 +1,22 @@
+{
+  "name": "testselenium",
+  "version": "1.0.0",
+  "description": "Ejecucion de una tarea desde theeye, con selenium, nodejs sobre Internet Explorer.",
+  "main": "example_selenium.js",
+  "scripts": {
+    "test": "node example_selenium.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agustin94/testSeleniumWithNodejs.git"
+  },
+  "author": "Agustin Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agustin94/testSeleniumWithNodejs/issues"
+  },
+  "homepage": "https://github.com/agustin94/testSeleniumWithNodejs#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
